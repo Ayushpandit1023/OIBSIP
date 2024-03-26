@@ -18,10 +18,11 @@ numerical outcome based on a dataset with relevant features. Linear regression i
 fundamental machine learning algorithm, and this project provides hands-on experience in
 developing, evaluating, and interpreting a predictive model.
 
-# Project 3: [Project Name]
-Description: Describe the third project briefly.
+# Project 3: [wine quality prediction]
+Description: The focus is on predicting the quality of wine based on its chemical characteristics, offering a
+real-world application of machine learning in the context of viticulture. The dataset
+encompasses diverse chemical attributes, including density and acidity, which serve as the
+features for three distinct classifier models.
 
-Folder/File Structure: Explain the organization of files and folders related to this project.
-Dependencies: List any dependencies or prerequisites required to run the project.
-How to Run: Provide instructions on how to run the project locally.
-Additional Information: Any additional details about the project.
+
+
